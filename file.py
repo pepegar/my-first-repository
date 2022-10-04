@@ -1,4 +1,4 @@
-def potato():
+def banana():
     print("hello")
 
-potato()
+banana()
